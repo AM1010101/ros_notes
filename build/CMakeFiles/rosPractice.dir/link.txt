@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g  -rdynamic CMakeFiles/rosPractice.dir/main.cpp.o  -o rosPractice  ../firebase_cpp_sdk/libs/linux/x86_64/cxx11/libfirebase_app.a ../firebase_cpp_sdk/libs/linux/x86_64/cxx11/libfirebase_database.a 

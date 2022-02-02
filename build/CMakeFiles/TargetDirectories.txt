@@ -1,0 +1,5 @@
+/home/am/code/rosPractice/build/CMakeFiles/rebuild_cache.dir
+/home/am/code/rosPractice/build/CMakeFiles/edit_cache.dir
+/home/am/code/rosPractice/build/CMakeFiles/rosPractice.dir
+/home/am/code/rosPractice/build/firebase_cpp_sdk/CMakeFiles/rebuild_cache.dir
+/home/am/code/rosPractice/build/firebase_cpp_sdk/CMakeFiles/edit_cache.dir
